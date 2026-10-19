@@ -28,3 +28,4 @@ const config: Config = {
 };
 
 export default config;
+// # sourceMappingURL=jest.config.js.map
